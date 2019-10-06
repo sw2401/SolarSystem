@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(11,48): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(12,49): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(13,47): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(14,47): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+  SolarSystem.vcxproj -> C:\Users\sw240\Desktop\462\SolarSystem\x64\Debug\SolarSystem.exe
