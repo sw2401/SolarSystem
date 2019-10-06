@@ -1,5 +1,6 @@
 # SolarSystem
 3D OpenGL Animation Model of our SolarSystem
+
 How to setup freeglut with Visual Studio Using Windows:
 1) Download the Freeglut package 2015 from OnCourse
 2) Extract Freeglut folder from zip file
