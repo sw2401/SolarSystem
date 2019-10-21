@@ -21,7 +21,7 @@ struct planet //all units in metric
 
 	planet();//default
 	planet(unsigned long long int, float, float, float, float);//takes arguments
-	
+
 	//for scaling you can pass a fraction like you would a ratio
 	void scale(double);
 	void changeTime(double);
@@ -98,7 +98,7 @@ void planet::changeTime(double timeChange)//change the obersvable time of the pl
 {
 	mercury.dayTime = mercury.dayTime * timeChange;
 	mercury.yearTime = mercury.yearTime * timeChange;
-	
+
 	venus.dayTime = venus.dayTime * timeChange;
 	venus.yearTime = venus.yearTime * timeChange;
 
