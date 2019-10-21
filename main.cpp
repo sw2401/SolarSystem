@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <GL\freeglut.h>
 #include <iostream>
+#include "planets.h"
 
 //void display() {
 //	glClearColor(1.0f, 1.0f, 1.0f, 1.0f);
