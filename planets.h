@@ -21,9 +21,10 @@ struct planet //all units in metric
 
 	planet();//default
 	planet(unsigned long long int, float, float, float, float);//takes arguments
-	
+
 	//for scaling you can pass a fraction like you would a ratio
 	void scale(double);
+	void changeTime(double);
 };
 
 //default constructor
@@ -62,35 +63,64 @@ planet pluto(5500000000, 950, 119.61, 6 * oneEarthDay + 32400, (4 * 365 * oneEar
 void planet::scale(double ratio)
 {
 	//scale sun
-	sun.diameter = sun.diameter / ratio;
+	sun.diameter = sun.diameter * ratio;
 	sun.distanceFromSun = sun.distanceFromSun / ratio;
 	//scale mercury
-	mercury.diameter = mercury.diameter / ratio;
+	mercury.diameter = mercury.diameter * ratio;
 	mercury.distanceFromSun = mercury.distanceFromSun / ratio;
 	//scale venus
-	venus.diameter = venus.diameter / ratio;
-	venus.distanceFromSun = venus.distanceFromSun / ratio;
+	venus.diameter = venus.diameter * ratio;
+	venus.distanceFromSun = venus.distanceFromSun * ratio;
 	//scale earth
-	earth.diameter = earth.diameter / ratio;
-	earth.distanceFromSun = earth.distanceFromSun / ratio;
+	earth.diameter = earth.diameter * ratio;
+	earth.distanceFromSun = earth.distanceFromSun * ratio;
 	//scale mars
-	mars.diameter = mars.diameter / ratio;
-	mars.distanceFromSun = mars.distanceFromSun / ratio;
+	mars.diameter = mars.diameter * ratio;
+	mars.distanceFromSun = mars.distanceFromSun * ratio;
 	//scale jupiter
-	jupiter.diameter = jupiter.diameter / ratio;
-	jupiter.distanceFromSun = jupiter.distanceFromSun / ratio;
+	jupiter.diameter = jupiter.diameter * ratio;
+	jupiter.distanceFromSun = jupiter.distanceFromSun * ratio;
 	//scale saturn
-	saturn.diameter = saturn.diameter / ratio;
-	saturn.distanceFromSun = saturn.distanceFromSun / ratio;
+	saturn.diameter = saturn.diameter * ratio;
+	saturn.distanceFromSun = saturn.distanceFromSun * ratio;
 	//scale uranus
-	uranus.diameter = uranus.diameter / ratio;
-	uranus.distanceFromSun = uranus.distanceFromSun / ratio;
+	uranus.diameter = uranus.diameter * ratio;
+	uranus.distanceFromSun = uranus.distanceFromSun * ratio;
 	//scale neptune
-	neptune.diameter = neptune.diameter / ratio;
-	neptune.distanceFromSun = neptune.distanceFromSun / ratio;
+	neptune.diameter = neptune.diameter * ratio;
+	neptune.distanceFromSun = neptune.distanceFromSun * ratio;
 	//scale pluto
-	pluto.diameter = pluto.diameter / ratio;
-	pluto.distanceFromSun = pluto.distanceFromSun / ratio;
+	pluto.diameter = pluto.diameter * ratio;
+	pluto.distanceFromSun = pluto.distanceFromSun * ratio;
 }
 
+void planet::changeTime(double timeChange)//change the obersvable time of the planets revolutions and rotation on axis
+{
+	mercury.dayTime = mercury.dayTime * timeChange;
+	mercury.yearTime = mercury.yearTime * timeChange;
+
+	venus.dayTime = venus.dayTime * timeChange;
+	venus.yearTime = venus.yearTime * timeChange;
+
+	earth.dayTime = earth.dayTime * timeChange;
+	earth.yearTime = earth.yearTime * timeChange;
+
+	mars.dayTime = mars.dayTime * timeChange;
+	mars.yearTime = mars.yearTime * timeChange;
+
+	jupiter.dayTime = jupiter.dayTime * timeChange;
+	jupiter.yearTime = jupiter.yearTime * timeChange;
+
+	saturn.dayTime = saturn.dayTime * timeChange;
+	saturn.yearTime = saturn.yearTime * timeChange;
+
+	uranus.dayTime = uranus.dayTime * timeChange;
+	uranus.yearTime = uranus.yearTime * timeChange;
+
+	neptune.dayTime = neptune.dayTime * timeChange;
+	neptune.yearTime = neptune.yearTime * timeChange;
+
+	pluto.dayTime = pluto.dayTime * timeChange;
+	pluto.yearTime = pluto.yearTime * timeChange;
+}
 #endif // !planets_h

@@ -1,71 +1,117 @@
 ﻿  main.cpp
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(66,34): warning C4305: '+=': truncation from 'double' to 'float'
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(76,35): warning C4305: '+=': truncation from 'double' to 'float'
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(78,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(79,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(84,43): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(84,21): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(88,16): warning C4305: '=': truncation from 'double' to 'float'
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(88,38): warning C4305: '+=': truncation from 'double' to 'float'
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(90,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(91,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(93,43): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(93,21): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(96,16): warning C4305: '=': truncation from 'double' to 'float'
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(96,38): warning C4305: '+=': truncation from 'double' to 'float'
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(98,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(99,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(101,43): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(101,21): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(104,16): warning C4305: '=': truncation from 'double' to 'float'
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(104,38): warning C4305: '+=': truncation from 'double' to 'float'
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(106,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(107,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(109,43): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(109,21): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(112,16): warning C4305: '=': truncation from 'double' to 'float'
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(112,38): warning C4305: '+=': truncation from 'double' to 'float'
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(114,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(115,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(117,43): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(117,21): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(120,16): warning C4305: '=': truncation from 'double' to 'float'
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(120,38): warning C4305: '+=': truncation from 'double' to 'float'
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(122,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(123,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(125,43): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(125,21): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(128,16): warning C4305: '=': truncation from 'double' to 'float'
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(128,38): warning C4305: '+=': truncation from 'double' to 'float'
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(130,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(131,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(133,43): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(133,21): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(136,16): warning C4305: '=': truncation from 'double' to 'float'
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(136,38): warning C4305: '+=': truncation from 'double' to 'float'
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(138,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(139,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(141,43): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(141,21): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(147,18): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(148,36): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(148,20): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(152,35): warning C4305: '+=': truncation from 'double' to 'float'
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(154,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(155,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(157,43): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(157,21): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(160,35): warning C4305: '+=': truncation from 'double' to 'float'
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(162,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(163,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(165,43): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(165,21): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(168,35): warning C4305: '+=': truncation from 'double' to 'float'
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(170,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(171,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(173,43): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(173,21): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(177,35): warning C4305: '+=': truncation from 'double' to 'float'
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(179,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\Users\sw240\Desktop\462\SolarSystem\main.cpp(180,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-  SolarSystem.vcxproj -> C:\Users\sw240\Desktop\462\SolarSystem\x64\Debug\SolarSystem.exe
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(52,77): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(53,76): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(56,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(57,58): warning C4305: 'argument': truncation from 'int' to 'float'
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(57,58): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(58,56): warning C4305: 'argument': truncation from 'unsigned long' to 'float'
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(59,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(60,110): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(66,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(67,44): warning C4244: '=': conversion from 'double' to 'unsigned __int64', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(69,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(70,52): warning C4244: '=': conversion from 'double' to 'unsigned __int64', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(72,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(73,48): warning C4244: '=': conversion from 'double' to 'unsigned __int64', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(75,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(76,48): warning C4244: '=': conversion from 'double' to 'unsigned __int64', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(78,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(79,46): warning C4244: '=': conversion from 'double' to 'unsigned __int64', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(81,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(82,52): warning C4244: '=': conversion from 'double' to 'unsigned __int64', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(84,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(85,50): warning C4244: '=': conversion from 'double' to 'unsigned __int64', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(87,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(88,50): warning C4244: '=': conversion from 'double' to 'unsigned __int64', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(90,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(91,52): warning C4244: '=': conversion from 'double' to 'unsigned __int64', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(93,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(94,48): warning C4244: '=': conversion from 'double' to 'unsigned __int64', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(99,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(100,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(102,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(103,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(105,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(106,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(108,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(109,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(111,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(112,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(114,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(115,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(117,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(118,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(120,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(121,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(123,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\planets.h(124,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(67,30): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(77,35): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(79,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(80,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(85,43): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(85,21): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(89,16): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(89,38): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(91,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(92,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(94,43): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(94,21): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(97,16): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(97,38): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(99,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(100,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(102,43): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(102,21): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(105,16): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(105,38): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(107,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(108,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(110,43): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(110,21): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(113,16): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(113,38): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(115,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(116,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(118,43): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(118,21): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(121,16): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(121,38): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(123,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(124,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(126,43): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(126,21): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(129,16): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(129,38): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(131,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(132,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(134,43): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(134,21): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(137,16): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(137,38): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(139,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(140,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(142,43): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(142,21): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(148,18): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(149,36): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(149,20): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(153,35): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(155,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(156,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(158,43): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(158,21): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(161,35): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(163,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(164,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(166,43): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(166,21): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(169,35): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(171,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(172,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(174,43): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(174,21): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(178,35): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(180,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\main.cpp(181,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  SolarSystem.vcxproj -> C:\Users\Alyssa\Desktop\SolarSystem\SolarSystem\x64\Debug\SolarSystem.exe
