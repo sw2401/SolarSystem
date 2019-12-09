@@ -1,0 +1,59 @@
+﻿  Source.cpp
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(117,87): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(118,81): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(118,23): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(119,71): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(119,23): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(120,67): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(120,21): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(121,73): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(121,27): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(122,75): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(122,25): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(123,71): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(123,25): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(124,76): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(124,27): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(125,93): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(125,23): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(132,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(142,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(149,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(150,44): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(152,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(153,52): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(155,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(156,48): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(158,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(159,48): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(161,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(162,46): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(164,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(165,52): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(167,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(168,50): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(170,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(171,50): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(173,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(174,52): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(176,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(177,48): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(182,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(183,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(185,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(186,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(188,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(189,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(191,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(192,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(194,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(195,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(197,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(198,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(200,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(201,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(203,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(204,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(206,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alyssa\Desktop\newSolar\newSolar\planets.h(207,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  newSolar.vcxproj -> C:\Users\Alyssa\Desktop\newSolar\x64\Debug\newSolar.exe
